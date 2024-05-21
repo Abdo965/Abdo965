@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdo956](https://github.com/Abdo965?tab=repositories))
 
-- 💬 Ask me about **ML, DP and Python**
+- 💬 Ask me about **ML, DP and Python** 
 
 - 📫 How to reach me **abderahmanelzahar1234@gmail.com**
 
